@@ -46,6 +46,23 @@ O objetivo é coletar os **50 diamantes** no menor tempo possível, registrando 
 * Menu inicial com opções de jogo
 * Cenário 3D explorável
 
+## Novas funcionalidades
+
+- Implementação de câmera em terceira pessoa acompanhando a direção do personagem
+- Sistema de sons de passos sincronizados com a movimentação
+- Tela de pausa (Pause Menu)
+- Opção de continuar o jogo
+- Opção de retornar ao menu principal
+- Opção de encerrar o jogo
+
+## Melhorias recentes
+
+- Correção do comportamento da câmera
+- Ajuste do Character Controller para alinhamento correto ao terreno
+- Correção dos efeitos sonoros de passos
+- Implementação do sistema de pausa e encerramento do jogo
+- Melhorias na experiência de navegação entre cenas
+
 ## Tecnologias Utilizadas
 
 * Unity 6
@@ -79,7 +96,6 @@ Durante o desenvolvimento deste projeto pratiquei:
 * Novos mapas e cenários
 * Sistema de fases
 * Efeitos sonoros adicionais
-* Música ambiente
 * Sistema de salvamento de progresso
 * Novos objetivos e desafios
 
