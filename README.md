@@ -6,7 +6,7 @@ Projeto desenvolvido em Unity como parte dos meus estudos em desenvolvimento de 
 
 🎥 Demonstração completa do projeto:
 
-https://youtu.be/piNbAkGrUDU
+https://youtu.be/D8C2DzBIESc
 
 ## Sobre o Projeto
 
