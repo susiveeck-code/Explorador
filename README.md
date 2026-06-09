@@ -34,6 +34,10 @@ O objetivo é coletar os **50 diamantes** no menor tempo possível, registrando 
 
 ![Casa](imagens/casa.jpg)
 
+### Menu Pausa
+
+![Casa](imagens/Pause.jpg)
+
 ## Funcionalidades
 
 * Movimentação do personagem em terceira pessoa
